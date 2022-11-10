@@ -1,6 +1,6 @@
 #Author: Sophia Philips
 #Github Username: sophiacphilips
-#Date: 11/10/22
+#Date: 11/09/22
 #This program is designed to take a number from a list and return the squares of the original numbers.
 
 def square_list(nums):
